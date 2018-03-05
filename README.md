@@ -2,6 +2,8 @@
 
 Based on narrowing down https://github.com/ramondeklein/pug-email-templates-memleak this is causing a leak in pug.
 
+Tested in node v8.9.4 and v9.7.1
+
 ## How to use
 
 To demonstrate the problem first start this example program:
